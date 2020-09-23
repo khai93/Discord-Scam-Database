@@ -65,9 +65,8 @@ DiscordUtil.getDate = (id) => {
     }
 };
 
-// Return Image URL depending on the type you're requesting.
 /**
- * Censor a domain name
+ * Return Image URL depending on the type you're requesting.
  * @param {string} id - discord id
  * @param {string} hash // hash of what
  * @param {string} type // type of what
