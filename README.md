@@ -8,7 +8,7 @@
 
 # Configuration
 
-### Environmental Varibles 
+### Environmental Variables 
 
 Variable | Description
 ---------|------------
